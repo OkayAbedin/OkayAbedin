@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minhaz</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" align = "right" alt="coding">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="300" align = "right" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okayabedin&label=Profile%20views&color=0e75b6&style=flat" alt="okayabedin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=okayabedin" alt="okayabedin" /></a> </p>
