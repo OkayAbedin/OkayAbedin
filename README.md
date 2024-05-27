@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <a href="github.com/okayabedin/presentpy">PresentPy</a> <br>🌱 I’m currently learning *Python*<br>💬 Ask me about C, C++, Java, Python, Competitive Programming<br>⚡ Fun fact is that I love poetry
+🔭 I’m currently working on <a href="github.com/okayabedin/presentpy">PresentPy</a> <br>🌱 I’m currently learning **Python**<br>💬 Ask me about C, C++, Java, Python, Competitive Programming<br>⚡ Fun fact is that I love poetry
 
 
 ## 🌐 Socials:
