@@ -3,7 +3,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400" align = "right" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okayabedin&label=Profile%20views&color=0e75b6&style=flat" alt="okayabedin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/minhaz.abedin" target="blank"><img src="https://img.shields.io/twitter/follow/minhaz.abedin?logo=twitter&style=for-the-badge" alt="minhaz.abedin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/minhazabedinn" target="blank"><img src="https://img.shields.io/twitter/follow/minhaz.abedin?logo=twitter&style=for-the-badge" alt="minhaz.abedin" /></a> </p>
 
 - 🔭 I’m currently working on [PresentPy](https://github.com/OkayAbedin/PresentPy)
 
