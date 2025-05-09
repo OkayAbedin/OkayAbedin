@@ -1,5 +1,5 @@
 # 💫 Hi! I am Minhaz
-🔭 I’m currently working on <a href="github.com/okayabedin/diu-cgpa">DIU CGPA</a> <br>🌱 I’m currently learning **Bash**<br>💬 Ask me about C, C++, Java, Python, Competitive Programming<br>⚡ Fun fact is that I love poetry
+🔭 I’m currently working on <a href="https://github.com/OkayAbedin/diu-cgpa">DIU CGPA</a> <br>🌱 I’m currently learning **Bash**<br>💬 Ask me about C, C++, Java, Python, Competitive Programming<br>⚡ Fun fact is that I love poetry
 
 
 ## 🌐 Socials:
