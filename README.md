@@ -33,11 +33,29 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okayabedin&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=okayabedin&theme=synthwave&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okayabedin&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/okayabedin">
+        <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=okayabedin&show_icons=true&count_private=true&theme=default&hide_border=false&bg_color=ffffff&text_color=000000&icon_color=0969da&title_color=0969da&border_color=ddd&border_radius=6" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/okayabedin">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=okayabedin&theme=default&hide_border=false&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da&border=ddd&border_radius=6" alt="GitHub Streak Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <a href="https://github.com/okayabedin">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=okayabedin&theme=minimal&hide_border=false&bg_color=ffffff&color=000000&area=true&area_color=0969da40&point=0969da&line=0969da&border_color=ddd&border_radius=6" alt="Activity Graph" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 <div align="left">
