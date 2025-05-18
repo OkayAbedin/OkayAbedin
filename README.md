@@ -1,6 +1,6 @@
 #  Hi! I am Minhaz
 
-- 🔭 I'm currently working on [DIU CGPA](https://github.com/OkayAbedin/diu-cgpa)
+- 🔭 I'm currently working on [PDF2PNG](https://github.com/OkayAbedin/PDF2PNG)
 - 🌱 I'm currently learning **JavaScript**
 - 💬 Ask me about **C, C++, Java, Python, JavaScript**
 - ⚡ Fun fact: I love poetry
